@@ -1,0 +1,84 @@
+body{
+    background: rgb(174,224,238);
+    background: radial-gradient(circle, rgba(174,224,238,1) 1%, rgba(93,95,95,1) 100%);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.navegador{
+    color: white;
+}
+.navegadordos{
+    color: white;
+     list-style: none;
+     display: flex;
+     justify-content: flex-end;
+     margin-top: -20px;
+     background-color:black;
+}
+
+.boton{
+    border-radius: 5px;
+    margin: 5px;
+}
+.botonuno{
+    border-radius: 5px;
+    background-color: royalblue;
+    margin: 5px;
+    height: 30px;
+}
+.search{
+    text-align: center;
+    font-size: 30px;
+    margin-top:70px;
+}
+.input{
+    font-size: 30px;
+    padding: 0px 20px;
+    border-radius: 10px;
+}
+.git{
+    height: 100px;
+}
+.goo{
+    height: 100px;
+}
+.ins{
+    height: 100px;
+}
+.tw{
+    height: 100px;
+    margin-left: 175px;
+}
+.html{
+    height: 100px;
+}
+.css{
+    height: 100px;
+    margin-left: 50px;
+}
+.tarjetas{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+}
+.copy{
+    margin-top: 100px;
+    margin-left: 420px;
+}
+.copydos{
+    color:black;
+    text-decoration: none;
+}
+.contenido{
+    display: flex;
+    justify-content: center;
+}
+.barra{
+    text-decoration: none;
+}
+
+
+
